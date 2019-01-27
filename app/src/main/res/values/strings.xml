@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjetDevApplication</string>
+    <string name="connect">Se connecter</string>
+    <string name="pseudo">Pseudo</string>
+</resources>
